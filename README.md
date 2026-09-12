@@ -1,0 +1,1 @@
+Hello, welcome to my GitHub repository, here is all the schematics, pcb design, and fusion files for the keypad. also i have added the Arduino code for this. This code is made for Minecraft and a server called SNUGSMP. I hope you like it<3.
